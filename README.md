@@ -1,10 +1,22 @@
 React Tamin
 
+"Project Screenshot" (./screenshots/home-page.png)
+
+---
+
+🚀 React Tamin
+
+A modern, responsive, and user-friendly frontend web application developed for a company supplying gas transmission equipment across the country.
+
+The project is built with React and Vite, providing a clean shopping experience for users on both desktop and mobile devices.
+
+---
+
 📖 About The Project
 
-React Tamin is a modern and responsive frontend web application developed for a company supplying gas transmission equipment across the country.
+React Tamin is an e-commerce frontend application designed for a gas equipment supplier.
 
-The project provides a clean and user-friendly interface for browsing products, searching items, adding products to the shopping cart, and accessing company information.
+Users can browse product categories, search products, view featured items, contact the company, and access consultation services through a modern and responsive interface.
 
 ---
 
@@ -13,15 +25,15 @@ The project provides a clean and user-friendly interface for browsing products, 
 - 🔐 User Registration
 - 🛒 Shopping Cart
 - 🔍 Product Search
-- 📱 Responsive Design
 - 🎞️ Swiper Hero Slider
 - 📂 Product Categories
-- ⭐ Featured Products Section
+- ⭐ Featured Products
 - ➕ Add to Cart
-- 📞 Consultation Section
-- 🏭 Supplier Factories Slider
 - 📦 Purchase Process Section
-- 📧 Company Information & Contact
+- 🏭 Supplier Factories Slider
+- 📞 Product Consultation
+- 📧 Company Information
+- 📱 Fully Responsive Design
 
 ---
 
@@ -38,32 +50,60 @@ The project provides a clean and user-friendly interface for browsing products, 
 
 📱 Responsive Design
 
-The project is fully responsive and optimized for:
+Optimized for:
 
-- Desktop 💻
-- Tablet 📱
-- Mobile 📲
-
----
-
-🚀 Getting Started
-
-Install dependencies
-
-npm install
-
-Run the development server
-
-npm run dev
+- 💻 Desktop
+- 📱 Tablet
+- 📲 Mobile
 
 ---
 
 📂 Project Structure
 
-src/
-public/
-assets/
-components/
+react-tamin/
+│
+├── public/
+├── screenshots/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   └── App.jsx
+│
+├── package.json
+├── vite.config.js
+└── README.md
+
+---
+
+🚀 Getting Started
+
+Install Dependencies
+
+npm install
+
+Run Development Server
+
+npm run dev
+
+---
+
+📸 Project Preview
+
+The screenshot below shows the homepage of the project.
+
+"Homepage" (./screenshots/home-page.png)
+
+---
+
+🔮 Future Improvements
+
+- Product Details Page
+- User Authentication
+- Backend Integration
+- Payment Gateway
+- Product Filtering
+- Admin Dashboard
 
 ---
 
@@ -78,3 +118,7 @@ pooria.geychivand@gmail.com
 
 🐙 GitHub:
 https://github.com/pooriagheychivand
+
+---
+
+⭐ If you like this project, don't forget to give it a Star on GitHub.
